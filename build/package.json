@@ -4,7 +4,7 @@
   "description": "",
   "main": "build.js",
   "dependencies": {
-    "bl": "~0.6.0",
+    "bl": "~1.2.3",
     "hyperzip": "0.0.0",
     "hyperdirect": "0.0.0",
     "cheerio": "~0.22.0"

@@ -10,7 +10,7 @@
     "inherits": "~2.0.1"
   },
   "devDependencies": {
-    "tap": "~0.2.6"
+    "tap": "~21.8.0"
   },
   "scripts": {
     "test": "tap test/simple/*.js"
